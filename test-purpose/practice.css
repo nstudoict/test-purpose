@@ -34,4 +34,5 @@ input[type="password"]{
 }
 #test{
     background-color: darkgreen;
+    border-top-right-radius: 20px;
 }
